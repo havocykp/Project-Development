@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Stub.cpp
+Stub.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+Stub.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 D:\Repository\Final\PackOne\Release\Stub.lib 和对象 D:\Repository\Final\PackOne\Release\Stub.exp
+  正在生成代码
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+Stub.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  Stub.vcxproj -> D:\Repository\Final\PackOne\Release\Stub.dll
+  Stub.vcxproj -> D:\Repository\Final\PackOne\Release\Stub.pdb (Full PDB)
