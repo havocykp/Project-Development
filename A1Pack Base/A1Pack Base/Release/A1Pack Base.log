@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  A1Pack Base.cpp
+  A1Pack BaseDlg.cpp
+A1Pack BaseDlg.cpp(212): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+  0 of 196 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  A1Pack Base.vcxproj -> D:\Repository\Final\A1Pack Base\Release\A1Pack Base.exe
+  A1Pack Base.vcxproj -> D:\Repository\Final\A1Pack Base\Release\A1Pack Base.pdb (Full PDB)

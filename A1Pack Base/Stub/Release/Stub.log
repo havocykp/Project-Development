@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Stub.cpp
+    正在创建库 D:\Repository\Final\A1Pack Base\Release\Stub.lib 和对象 D:\Repository\Final\A1Pack Base\Release\Stub.exp
+  正在生成代码
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+dllmain.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  Stub.vcxproj -> D:\Repository\Final\A1Pack Base\Release\Stub.dll
+  Stub.vcxproj -> D:\Repository\Final\A1Pack Base\Release\Stub.pdb (Full PDB)

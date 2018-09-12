@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  A1Pack BaseDlg.cpp
+d:\repository\final\a1pack base\a1pack base\a1pack basedlg.cpp(212): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  A1Pack Base.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“../Debug/A1Pack_Base.lib”
