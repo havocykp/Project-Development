@@ -1,0 +1,4 @@
+﻿  BeaEngine反汇编.c
+d:\repository\classtwo\汇编反汇编引擎使用\汇编反汇编引擎使用\beaengine反汇编.c(84): warning C4013: “system”未定义；假设外部返回 int
+d:\repository\classtwo\汇编反汇编引擎使用\汇编反汇编引擎使用\beaengine反汇编.c(74): warning C4244: “初始化”: 从“UInt64”转换到“unsigned int”，可能丢失数据
+  汇编反汇编引擎使用.vcxproj -> D:\Repository\ClassTwo\汇编反汇编引擎使用\Debug\汇编反汇编引擎使用.exe
