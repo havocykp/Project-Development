@@ -1,0 +1,4 @@
+﻿  calculator.c
+d:\repository\classone\大数计算器\大数计算器\calculator.c(131): warning C4715: “calc_add”: 不是所有的控件路径都返回值
+d:\repository\classone\大数计算器\大数计算器\calculator.c(224): warning C4715: “calc_sub”: 不是所有的控件路径都返回值
+  大数计算器.vcxproj -> D:\Repository\ClassOne\大数计算器\Debug\大数计算器.exe
