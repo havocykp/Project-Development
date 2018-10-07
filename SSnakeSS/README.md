@@ -59,16 +59,17 @@
 
 - 主界面
 
-![](D:\Repository\ClassOne\SSnakeSS\Image\Image1.png)
+![](https://github.com/havocykp/Project-Development/blob/master/SSnakeSS/Image/Image1.png)
 
 - 游戏操作说明
 
-  ![](D:\Repository\ClassOne\SSnakeSS\Image\Image2.png)
+  ![](https://github.com/havocykp/Project-Development/blob/master/SSnakeSS/Image/Image2.png)
 
 - 移动中的蛇
 
-  ![](D:\Repository\ClassOne\SSnakeSS\Image\Image3.png)
+  ![](https://github.com/havocykp/Project-Development/blob/master/SSnakeSS/Image/Image3.png)
 
 - 游戏失败界面
 
-  ![](D:\Repository\ClassOne\SSnakeSS\Image\Image4.png)
+  ![](https://github.com/havocykp/Project-Development/blob/master/SSnakeSS/Image/Image4.png)
+
