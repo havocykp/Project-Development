@@ -16,4 +16,4 @@
 
 ##### 项目截图
 
-![](D:\Repository\ClassOne\MyPass_Demo1\Image\Image.png)
+![](https://github.com/havocykp/Project-Development/blob/master/MyPass_Demo1/Image/Image.png)
