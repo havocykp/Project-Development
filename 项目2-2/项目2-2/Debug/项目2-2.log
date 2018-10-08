@@ -1,0 +1,5 @@
+﻿  项目2-2.c
+d:\repository\classone\项目2-2\项目2-2\项目2-2.c(524): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+d:\repository\classone\项目2-2\项目2-2\项目2-2.c(199): warning C4172: 返回局部变量或临时变量的地址: tmp
+  项目2-2.vcxproj -> D:\Repository\ClassOne\项目2-2\Debug\项目2-2.exe
+  项目2-2.vcxproj -> D:\Repository\ClassOne\项目2-2\Debug\项目2-2.pdb (Full PDB)
